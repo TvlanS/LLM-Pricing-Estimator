@@ -3,15 +3,9 @@
 AI-powered price estimation tool for home renovation jobs using historical vendor data. Generate accurate invoice tables based on past job costs with semantic search and LLM-powered analysis. Note : Pricing in sample may not reflect actual prices as dataset sample is synthetically generated.
 
 <p align="center">
-  <img src="https://github.com/TvlanS/LLM-Pricing-Estimator/blob/266ad2420629efa881319660dd1e5f53251221bc/Sample%20Img/Part%201.png?raw=true" width="600" alt="LLM Pricing Part 1">
+  <img src="https://github.com/TvlanS/LLM-Pricing-Estimator/blob/b66546cabcc530701df4de02fe679ef3a2cb941d/Sample%20Img/Part%201.png" width="600" alt="LLM Pricing Part 1">
   <br>
   <em>Output example - Part 1</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/TvlanS/LLM-Pricing-Estimator/blob/266ad2420629efa881319660dd1e5f53251221bc/Sample%20Img/Part%202.png?raw=true" width="600" alt="LLM Pricing Part 2">
-  <br>
-  <em>Output example - Part 2</em>
 </p>
 
 ## Motivation
