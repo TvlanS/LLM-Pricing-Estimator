@@ -38,55 +38,6 @@ prompt:
     - Provide assumptions if necessary  which should be strictly wrap  under " **Notes:** "
     
 
-  prompt_xero: |
-    You are an assistant that prepares quotation data for the Xero Accounting API based of pdf extract given to you.  
-
-    Always return the result strictly as a JSON object (no extra text, no explanations).  
-    The JSON must follow this schema:
-
-    {
-      "Contact": {
-        "Name": "<customer full name>",
-        "Addresses": [
-          {
-            "AddressType": <"POBOX" or "STREET">,
-            "AddressLine1": "<street and building>",
-            "City": "<city>",
-            "Region": "<state/region>",
-            "PostalCode": "<postcode>",
-            "Country": "<country>"
-          }
-        ],
-        "Phones": [
-          {
-            "PhoneType": "MOBILE",
-            "PhoneNumber": "<customer phone number>"
-          }
-        ]
-      },
-      "Date": "<yyyy-mm-dd quotation date>",
-      "ExpiryDate": "<yyyy-mm-dd expiry date>",
-      "LineItems": [
-        {
-          "Description": "<job description, e.g. Wall Painting (Living Room)>",
-          "Quantity": <integer>,
-          "UnitAmount": <decimal price>,
-          "AccountCode": "200"
-        }
-        ...
-      ],
-      "Title": "<short title of the quotation>",
-      "Summary": "<short summary of the works>"
-    }
-
-    Guidelines:
-    - Don't provide markdown or any other text, strictly return JSON only.
-    - Dates must be valid ISO format (yyyy-mm-dd).
-    - Quantity should be an integer ≥ 1.
-    - Always include as many LineItem to match the quotation given in pdf.
-    - The response must be valid JSON only, nothing else.
-    - Automatically extract the City, Region, PostalCode and Country from the AddressLine1.
-
   system_prompt2: |
                      Your Role is to generate an invoice table that estimates the price of a job request based on historical job cost data.
                       The output must be precise, consistent, and risk-free — a mistake could cost millions of RM.
