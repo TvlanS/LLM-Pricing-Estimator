@@ -1,0 +1,461 @@
+ID,Company,Job Scope,Total Project Cost,Job Scope Cost,Quantity
+Q0001,Tan & Sons,"Execution of works: Replace broken floor tiles in kitchen (small living room - basic package), inclusive of labour & materials",10287,1028.7,10
+Q0002,Lim & Partners,Works include Bathroom renovation including new tiles and sanitary fittings (medium guest room - standard package) (standard quality),8552,4276.0,2
+Q0003,Tan & Sons,"Execution of works: Install sliding glass shower screen (medium kitchen - standard package), inclusive of labour & materials",8620,8620.0,1
+Q0004,Johnson-Morris,Works include Install aluminium windows with tinted glass (small bathroom - premium package) (standard quality),6486,810.75,8
+Q0005,Eco Builders Malaysia,Professional service to plumbing for new kitchen sink and tap (medium balcony - premium package),1263,157.88,8
+Q0006,Chan Brothers,Install aluminium windows with tinted glass (small living room - deluxe package) as per client’s request,3818,477.25,8
+Q0007,Wong Works,Labour and material for Install new main entrance door (solid timber) (large balcony - standard package),3983,569.0,7
+Q0008,"Taylor, Davis and Maldonado",Provide and complete Install kitchen base and wall cabinets (melamine finish) (medium master bedroom - deluxe package) with all necessary materials,13539,1692.38,8
+Q0009,Majestic Home Reno,Install aluminium windows with tinted glass (medium bathroom - basic package) - premium finishing included,3080,342.22,9
+Q0010,Global Build Sdn Bhd,Labour and material for Roof repair and waterproofing (large living room - standard package),2991,427.29,7
+Q0011,Wong Works,Provide and complete Full repaint of interior walls with weatherproof coating (small dining area - premium package) with all necessary materials,5773,1443.25,4
+Q0012,Lee Construction,Provide and complete Install new main entrance door (solid timber) (large living room - basic package) with all necessary materials,7252,7252.0,1
+Q0013,Wong Works,Provide and complete Full repaint of interior walls with weatherproof coating (large dining area - premium package) with all necessary materials,6157,879.57,7
+Q0014,Eco Builders Malaysia,"Execution of works: Install LED downlights in living room (medium dining area - deluxe package), inclusive of labour & materials",3559,711.8,5
+Q0015,Chan Brothers,Bathroom renovation including new tiles and sanitary fittings (small bathroom - standard package) as per client’s request,6953,1158.83,6
+Q0016,Chan Brothers,Install waterproofing membrane in bathroom (small guest room - basic package) - turnkey package,2416,302.0,8
+Q0017,Chan Brothers,Install kitchen base and wall cabinets (melamine finish) (medium study room - premium package) as per client’s request,14176,2025.14,7
+Q0018,Global Build Sdn Bhd,Works include Install waterproofing membrane in bathroom (large master bedroom - deluxe package) (standard quality),2644,293.78,9
+Q0019,Johnson-Morris,Vendor to carry out vinyl flooring installation in bedrooms (large master bedroom - premium package),7326,732.6,10
+Q0020,"Walter, Good and Vasquez",Labour and material for Full repaint of interior walls with weatherproof coating (large master bedroom - basic package),4757,594.62,8
+Q0021,Chan Brothers,Labour and material for Full repaint of interior walls with weatherproof coating (medium living room - premium package),5257,876.17,6
+Q0022,Happy Living Renovations,Electrical rewiring and new socket installation (small study room - standard package) - turnkey package,4721,674.43,7
+Q0023,Ahmad Renovation,Supply & install service for Fix leaking concealed pipe in bathroom wall (large balcony - basic package),3370,561.67,6
+Q0024,Wong Works,Professional service to roof repair and waterproofing (large kitchen - basic package),2839,709.75,4
+Q0025,"Taylor, Davis and Maldonado",Professional service to install air conditioning unit (1.5hp split type) (medium balcony - basic package),3259,3259.0,1
+Q0026,Tan & Sons,Labour and material for Electrical rewiring and new socket installation (large bathroom - premium package),3668,1834.0,2
+Q0027,Tan & Sons,Works include Timber decking installation for outdoor area (large master bedroom - standard package) (standard quality),6866,2288.67,3
+Q0028,Wong Works,Replace broken floor tiles in kitchen (small master bedroom - standard package) as per client’s request,11314,1257.11,9
+Q0029,"Taylor, Davis and Maldonado",Install waterproofing membrane in bathroom (medium bathroom - deluxe package) - premium finishing included,1185,592.5,2
+Q0030,Lee Construction,Construct plaster ceiling with cove lighting (small balcony - premium package) - turnkey package,3319,663.8,5
+Q0031,Majestic Home Reno,Supply & install service for Electrical rewiring and new socket installation (medium living room - basic package),2351,2351.0,1
+Q0032,Tan & Sons,"Execution of works: Replace broken floor tiles in kitchen (large study room - basic package), inclusive of labour & materials",7472,1868.0,4
+Q0033,Happy Living Renovations,Works include Vinyl flooring installation in bedrooms (small master bedroom - basic package) (standard quality),11905,1322.78,9
+Q0034,Eco Builders Malaysia,"Execution of works: Timber decking installation for outdoor area (medium master bedroom - economy package), inclusive of labour & materials",7750,1937.5,4
+Q0035,Chan Brothers,"Execution of works: Full repaint of interior walls with weatherproof coating (large guest room - premium package), inclusive of labour & materials",7882,1126.0,7
+Q0036,Ahmad Renovation,Supply & install service for Timber decking installation for outdoor area (large balcony - standard package),10637,3545.67,3
+Q0037,"Taylor, Davis and Maldonado",Labour and material for Vinyl flooring installation in bedrooms (small kitchen - basic package),10761,1793.5,6
+Q0038,Johnson-Morris,Supply & install service for Painting exterior walls with weather-resistant paint (large guest room - standard package),4669,933.8,5
+Q0039,"Walter, Good and Vasquez",Works include Install aluminium windows with tinted glass (small kitchen - economy package) (standard quality),4071,2035.5,2
+Q0040,Smith LLC,Labour and material for Full repaint of interior walls with weatherproof coating (medium dining area - premium package),6360,706.67,9
+Q0041,"Taylor, Davis and Maldonado",Provide and complete Vinyl flooring installation in bedrooms (large kitchen - deluxe package) with all necessary materials,7713,771.3,10
+Q0042,"Walter, Good and Vasquez",Works include Install air conditioning unit (1.5HP split type) (small master bedroom - standard package) (standard quality),1887,943.5,2
+Q0043,Prime Reno Solutions,Provide and complete Timber decking installation for outdoor area (large dining area - standard package) with all necessary materials,10372,1728.67,6
+Q0044,Wong Works,Vendor to carry out lay homogeneous tiles in master bedroom (large master bedroom - deluxe package),11514,1151.4,10
+Q0045,"Walter, Good and Vasquez",Labour and material for Install new main entrance door (solid timber) (small balcony - premium package),6587,1646.75,4
+Q0046,"Taylor, Davis and Maldonado","Execution of works: Install new main entrance door (solid timber) (medium guest room - premium package), inclusive of labour & materials",4942,2471.0,2
+Q0047,"Walter, Good and Vasquez",Works include Construct plaster ceiling with cove lighting (large study room - standard package) (standard quality),2715,1357.5,2
+Q0048,Ahmad Renovation,Plumbing for new kitchen sink and tap (large living room - economy package) - turnkey package,3332,476.0,7
+Q0049,Ahmad Renovation,Install waterproofing membrane in bathroom (large guest room - economy package) as per client’s request,1165,291.25,4
+Q0050,Happy Living Renovations,Install air conditioning unit (1.5HP split type) (large dining area - deluxe package) as per client’s request,3439,1719.5,2
+Q0051,Wong Works,Labour and material for Install aluminium windows with tinted glass (medium bathroom - economy package),3089,308.9,10
+Q0052,Happy Living Renovations,Install sliding glass shower screen (medium guest room - deluxe package) - turnkey package,8041,2680.33,3
+Q0053,Global Build Sdn Bhd,Supply & install service for Lay homogeneous tiles in master bedroom (large living room - economy package),9391,3130.33,3
+Q0054,Global Build Sdn Bhd,Install aluminium windows with tinted glass (large master bedroom - basic package) as per client’s request,5505,688.12,8
+Q0055,Prime Reno Solutions,Provide and complete Painting exterior walls with weather-resistant paint (large balcony - standard package) with all necessary materials,6205,6205.0,1
+Q0056,Majestic Home Reno,Vendor to carry out install air conditioning unit (1.5hp split type) (large master bedroom - standard package),3305,472.14,7
+Q0057,"Walter, Good and Vasquez",Painting exterior walls with weather-resistant paint (medium balcony - basic package) as per client’s request,6167,1233.4,5
+Q0058,Chan Brothers,Vendor to carry out lay homogeneous tiles in master bedroom (medium bathroom - economy package),8936,4468.0,2
+Q0059,Eco Builders Malaysia,Supply & install service for Install kitchen base and wall cabinets (melamine finish) (medium living room - deluxe package),8562,1712.4,5
+Q0060,Ahmad Renovation,Provide and complete Install air conditioning unit (1.5HP split type) (large master bedroom - economy package) with all necessary materials,2134,266.75,8
+Q0061,"Taylor, Davis and Maldonado",Painting exterior walls with weather-resistant paint (small master bedroom - deluxe package) as per client’s request,3355,671.0,5
+Q0062,Majestic Home Reno,"Execution of works: Install air conditioning unit (1.5HP split type) (small balcony - premium package), inclusive of labour & materials",1767,883.5,2
+Q0063,Wong Works,Painting exterior walls with weather-resistant paint (large master bedroom - deluxe package) - turnkey package,6021,602.1,10
+Q0064,Johnson-Morris,Vendor to carry out vinyl flooring installation in bedrooms (medium bathroom - premium package),6414,6414.0,1
+Q0065,Happy Living Renovations,Supply & install service for Replace broken floor tiles in kitchen (large study room - deluxe package),10168,5084.0,2
+Q0066,Happy Living Renovations,Install waterproofing membrane in bathroom (small balcony - premium package) as per client’s request,2602,289.11,9
+Q0067,Majestic Home Reno,Provide and complete Install new main entrance door (solid timber) (medium balcony - basic package) with all necessary materials,5239,654.88,8
+Q0068,Happy Living Renovations,Professional service to bathroom renovation including new tiles and sanitary fittings (small guest room - premium package),9853,9853.0,1
+Q0069,"Taylor, Davis and Maldonado",Works include Install air conditioning unit (1.5HP split type) (small living room - premium package) (standard quality),1563,156.3,10
+Q0070,Eco Builders Malaysia,Vendor to carry out full repaint of interior walls with weatherproof coating (medium dining area - basic package),3177,635.4,5
+Q0071,Lee Construction,Install kitchen base and wall cabinets (melamine finish) (large master bedroom - deluxe package) as per client’s request,12195,1524.38,8
+Q0072,Eco Builders Malaysia,Supply & install service for Install sliding glass shower screen (small balcony - basic package),2386,265.11,9
+Q0073,Prime Reno Solutions,Bathroom renovation including new tiles and sanitary fittings (small balcony - deluxe package) - turnkey package,10450,1161.11,9
+Q0074,"Taylor, Davis and Maldonado",Provide and complete Fix leaking concealed pipe in bathroom wall (medium balcony - standard package) with all necessary materials,2675,668.75,4
+Q0075,Prime Reno Solutions,Provide and complete Timber decking installation for outdoor area (small balcony - deluxe package) with all necessary materials,11176,1241.78,9
+Q0076,Smith LLC,"Execution of works: Install waterproofing membrane in bathroom (medium balcony - deluxe package), inclusive of labour & materials",1459,729.5,2
+Q0077,Smith LLC,Provide and complete Lay homogeneous tiles in master bedroom (small bathroom - economy package) with all necessary materials,10049,1674.83,6
+Q0078,Lee Construction,Install aluminium windows with tinted glass (small dining area - premium package) - premium finishing included,7821,7821.0,1
+Q0079,Lim & Partners,Provide and complete Lay homogeneous tiles in master bedroom (medium guest room - economy package) with all necessary materials,6717,1119.5,6
+Q0080,Prime Reno Solutions,Professional service to install aluminium windows with tinted glass (small bathroom - economy package),6773,1693.25,4
+Q0081,Ahmad Renovation,Electrical rewiring and new socket installation (medium guest room - economy package) as per client’s request,3688,922.0,4
+Q0082,Lee Construction,Works include Painting exterior walls with weather-resistant paint (large living room - economy package) (standard quality),3356,3356.0,1
+Q0083,Majestic Home Reno,Provide and complete Install waterproofing membrane in bathroom (small study room - deluxe package) with all necessary materials,2017,252.12,8
+Q0084,Wong Works,"Execution of works: Fix leaking concealed pipe in bathroom wall (medium kitchen - deluxe package), inclusive of labour & materials",1486,185.75,8
+Q0085,Eco Builders Malaysia,"Execution of works: Seal gutter joints to stop rainwater leakage (medium master bedroom - deluxe package), inclusive of labour & materials",5044,2522.0,2
+Q0086,"Taylor, Davis and Maldonado",Plumbing for new kitchen sink and tap (large bathroom - premium package) - premium finishing included,2119,423.8,5
+Q0087,Eco Builders Malaysia,Seal gutter joints to stop rainwater leakage (medium bathroom - deluxe package) - turnkey package,3965,793.0,5
+Q0088,Johnson-Morris,Supply & install service for Install kitchen base and wall cabinets (melamine finish) (large dining area - premium package),7284,910.5,8
+Q0089,"Soto, Gonzalez and Hansen",Vendor to carry out install kitchen base and wall cabinets (melamine finish) (large living room - deluxe package),13390,3347.5,4
+Q0090,Prime Reno Solutions,"Execution of works: Replace broken floor tiles in kitchen (medium dining area - premium package), inclusive of labour & materials",4834,690.57,7
+Q0091,Wong Works,Professional service to install air conditioning unit (1.5hp split type) (large bathroom - standard package),1556,311.2,5
+Q0092,Majestic Home Reno,Works include Vinyl flooring installation in bedrooms (small balcony - deluxe package) (standard quality),11559,1926.5,6
+Q0093,"Walter, Good and Vasquez",Install LED downlights in living room (large master bedroom - economy package) - turnkey package,3162,632.4,5
+Q0094,Global Build Sdn Bhd,Professional service to timber decking installation for outdoor area (medium study room - basic package),4992,832.0,6
+Q0095,Ahmad Renovation,Supply & install service for Roof repair and waterproofing (medium master bedroom - economy package),1973,246.62,8
+Q0096,Chan Brothers,Electrical rewiring and new socket installation (small balcony - premium package) - premium finishing included,4930,821.67,6
+Q0097,Eco Builders Malaysia,Vendor to carry out install waterproofing membrane in bathroom (medium kitchen - premium package),2986,995.33,3
+Q0098,Eco Builders Malaysia,Labour and material for Roof repair and waterproofing (small bathroom - basic package),1082,1082.0,1
+Q0099,Lim & Partners,"Execution of works: Install kitchen base and wall cabinets (melamine finish) (medium kitchen - economy package), inclusive of labour & materials",6821,1705.25,4
+Q0100,Majestic Home Reno,Vinyl flooring installation in bedrooms (small dining area - economy package) as per client’s request,6530,725.56,9
+Q0101,Smith LLC,Supply & install service for Replace broken floor tiles in kitchen (large guest room - premium package),7873,874.78,9
+Q0102,Wong Works,Supply & install service for Roof repair and waterproofing (small guest room - premium package),2797,2797.0,1
+Q0103,Lee Construction,"Execution of works: Full repaint of interior walls with weatherproof coating (small bathroom - deluxe package), inclusive of labour & materials",4575,508.33,9
+Q0104,"Taylor, Davis and Maldonado",Labour and material for Plumbing for new kitchen sink and tap (medium guest room - standard package),3053,3053.0,1
+Q0105,Lim & Partners,Roof repair and waterproofing (small bathroom - premium package) - turnkey package,1065,1065.0,1
+Q0106,Prime Reno Solutions,Provide and complete Install sliding glass shower screen (large bathroom - premium package) with all necessary materials,8701,1087.62,8
+Q0107,Wong Works,Vendor to carry out fix leaking concealed pipe in bathroom wall (medium bathroom - premium package),2521,252.1,10
+Q0108,Eco Builders Malaysia,Supply & install service for Install sliding glass shower screen (large dining area - deluxe package),8471,2117.75,4
+Q0109,Happy Living Renovations,Works include Install kitchen base and wall cabinets (melamine finish) (small guest room - economy package) (standard quality),6286,898.0,7
+Q0110,Smith LLC,Provide and complete Vinyl flooring installation in bedrooms (small living room - deluxe package) with all necessary materials,9845,2461.25,4
+Q0111,Smith LLC,Lay homogeneous tiles in master bedroom (large master bedroom - standard package) as per client’s request,9884,1235.5,8
+Q0112,"Taylor, Davis and Maldonado",Works include Fix leaking concealed pipe in bathroom wall (small kitchen - basic package) (standard quality),2790,1395.0,2
+Q0113,Eco Builders Malaysia,Vendor to carry out install sliding glass shower screen (medium living room - economy package),4754,594.25,8
+Q0114,Smith LLC,Roof repair and waterproofing (medium living room - standard package) as per client’s request,2383,297.88,8
+Q0115,Prime Reno Solutions,Supply & install service for Lay homogeneous tiles in master bedroom (small study room - deluxe package),7657,765.7,10
+Q0116,Global Build Sdn Bhd,Provide and complete Timber decking installation for outdoor area (large master bedroom - basic package) with all necessary materials,7939,1323.17,6
+Q0117,"Soto, Gonzalez and Hansen",Replace broken floor tiles in kitchen (small guest room - basic package) - turnkey package,10520,2104.0,5
+Q0118,Wong Works,Install new main entrance door (solid timber) (medium master bedroom - deluxe package) - turnkey package,6826,1706.5,4
+Q0119,Tan & Sons,Vendor to carry out vinyl flooring installation in bedrooms (large living room - standard package),11963,1993.83,6
+Q0120,Chan Brothers,Seal gutter joints to stop rainwater leakage (medium living room - premium package) - premium finishing included,5882,2941.0,2
+Q0121,Lim & Partners,"Execution of works: Seal gutter joints to stop rainwater leakage (small kitchen - basic package), inclusive of labour & materials",8353,2784.33,3
+Q0122,Happy Living Renovations,Plumbing for new kitchen sink and tap (small kitchen - basic package) - turnkey package,2677,267.7,10
+Q0123,Chan Brothers,"Execution of works: Construct plaster ceiling with cove lighting (large kitchen - standard package), inclusive of labour & materials",1621,270.17,6
+Q0124,Wong Works,Labour and material for Install air conditioning unit (1.5HP split type) (medium dining area - premium package),1670,835.0,2
+Q0125,Ahmad Renovation,Labour and material for Seal gutter joints to stop rainwater leakage (medium kitchen - standard package),9106,1821.2,5
+Q0126,"Taylor, Davis and Maldonado",Works include Construct plaster ceiling with cove lighting (large master bedroom - deluxe package) (standard quality),1714,1714.0,1
+Q0127,"Soto, Gonzalez and Hansen","Execution of works: Vinyl flooring installation in bedrooms (medium kitchen - premium package), inclusive of labour & materials",11535,2307.0,5
+Q0128,Smith LLC,Vendor to carry out install aluminium windows with tinted glass (small master bedroom - premium package),7588,948.5,8
+Q0129,Prime Reno Solutions,Works include Vinyl flooring installation in bedrooms (medium balcony - economy package) (standard quality),5541,692.62,8
+Q0130,Majestic Home Reno,Professional service to fix leaking concealed pipe in bathroom wall (small dining area - economy package),2657,885.67,3
+Q0131,Prime Reno Solutions,Vendor to carry out fix leaking concealed pipe in bathroom wall (medium dining area - premium package),1959,244.88,8
+Q0132,Lee Construction,"Execution of works: Plumbing for new kitchen sink and tap (medium master bedroom - deluxe package), inclusive of labour & materials",1138,569.0,2
+Q0133,Tan & Sons,Provide and complete Plumbing for new kitchen sink and tap (small living room - economy package) with all necessary materials,3481,497.29,7
+Q0134,"Taylor, Davis and Maldonado",Professional service to install aluminium windows with tinted glass (small balcony - economy package),6885,2295.0,3
+Q0135,Ahmad Renovation,Provide and complete Install LED downlights in living room (small balcony - economy package) with all necessary materials,1199,199.83,6
+Q0136,Prime Reno Solutions,Professional service to lay homogeneous tiles in master bedroom (medium bathroom - deluxe package),5978,854.0,7
+Q0137,"Walter, Good and Vasquez",Labour and material for Construct plaster ceiling with cove lighting (large master bedroom - economy package),1658,552.67,3
+Q0138,Wong Works,"Execution of works: Install air conditioning unit (1.5HP split type) (small balcony - economy package), inclusive of labour & materials",1656,331.2,5
+Q0139,Ahmad Renovation,Labour and material for Timber decking installation for outdoor area (large bathroom - premium package),9824,1637.33,6
+Q0140,Lim & Partners,Supply & install service for Install sliding glass shower screen (small study room - economy package),8689,2896.33,3
+Q0141,Happy Living Renovations,Professional service to electrical rewiring and new socket installation (large guest room - economy package),1057,105.7,10
+Q0142,Smith LLC,Install air conditioning unit (1.5HP split type) (small study room - premium package) as per client’s request,2883,288.3,10
+Q0143,Lim & Partners,Provide and complete Bathroom renovation including new tiles and sanitary fittings (medium guest room - standard package) with all necessary materials,7760,1552.0,5
+Q0144,Johnson-Morris,Labour and material for Replace broken floor tiles in kitchen (small bathroom - premium package),8940,1490.0,6
+Q0145,Wong Works,Labour and material for Fix leaking concealed pipe in bathroom wall (large balcony - standard package),1446,144.6,10
+Q0146,Lim & Partners,Supply & install service for Full repaint of interior walls with weatherproof coating (large study room - deluxe package),3856,771.2,5
+Q0147,Happy Living Renovations,Construct plaster ceiling with cove lighting (medium living room - basic package) - turnkey package,1418,141.8,10
+Q0148,"Soto, Gonzalez and Hansen",Supply & install service for Install air conditioning unit (1.5HP split type) (large dining area - standard package),1512,151.2,10
+Q0149,"Soto, Gonzalez and Hansen",Replace broken floor tiles in kitchen (small bathroom - standard package) - turnkey package,5798,644.22,9
+Q0150,"Walter, Good and Vasquez",Fix leaking concealed pipe in bathroom wall (large master bedroom - premium package) as per client’s request,1282,1282.0,1
+Q0151,Lim & Partners,Provide and complete Painting exterior walls with weather-resistant paint (medium dining area - basic package) with all necessary materials,3567,594.5,6
+Q0152,Wong Works,Professional service to full repaint of interior walls with weatherproof coating (small kitchen - deluxe package),6032,670.22,9
+Q0153,Eco Builders Malaysia,Bathroom renovation including new tiles and sanitary fittings (medium study room - economy package) as per client’s request,9043,4521.5,2
+Q0154,Happy Living Renovations,Vendor to carry out plumbing for new kitchen sink and tap (medium bathroom - premium package),1897,189.7,10
+Q0155,Eco Builders Malaysia,Vendor to carry out replace broken floor tiles in kitchen (large bathroom - deluxe package),9580,3193.33,3
+Q0156,Lee Construction,Timber decking installation for outdoor area (small kitchen - basic package) - turnkey package,6215,3107.5,2
+Q0157,Tan & Sons,Provide and complete Seal gutter joints to stop rainwater leakage (small dining area - deluxe package) with all necessary materials,9151,1525.17,6
+Q0158,Eco Builders Malaysia,"Execution of works: Install aluminium windows with tinted glass (small bathroom - economy package), inclusive of labour & materials",7516,835.11,9
+Q0159,Ahmad Renovation,Labour and material for Install LED downlights in living room (small study room - economy package),2541,508.2,5
+Q0160,"Soto, Gonzalez and Hansen",Install waterproofing membrane in bathroom (medium guest room - basic package) - premium finishing included,2861,2861.0,1
+Q0161,"Taylor, Davis and Maldonado",Bathroom renovation including new tiles and sanitary fittings (large dining area - standard package) as per client’s request,5728,5728.0,1
+Q0162,Happy Living Renovations,Vendor to carry out construct plaster ceiling with cove lighting (small master bedroom - economy package),1782,594.0,3
+Q0163,Tan & Sons,Provide and complete Seal gutter joints to stop rainwater leakage (small dining area - standard package) with all necessary materials,5737,819.57,7
+Q0164,Eco Builders Malaysia,Install air conditioning unit (1.5HP split type) (medium balcony - basic package) - premium finishing included,2070,295.71,7
+Q0165,Eco Builders Malaysia,Professional service to install kitchen base and wall cabinets (melamine finish) (small balcony - economy package),5799,1933.0,3
+Q0166,Johnson-Morris,Vendor to carry out painting exterior walls with weather-resistant paint (medium balcony - economy package),7596,1085.14,7
+Q0167,Ahmad Renovation,Vendor to carry out install sliding glass shower screen (large living room - premium package),6148,1537.0,4
+Q0168,Smith LLC,"Execution of works: Construct plaster ceiling with cove lighting (small kitchen - standard package), inclusive of labour & materials",1346,134.6,10
+Q0169,Majestic Home Reno,Professional service to install aluminium windows with tinted glass (medium guest room - premium package),4151,2075.5,2
+Q0170,"Taylor, Davis and Maldonado","Execution of works: Install aluminium windows with tinted glass (medium master bedroom - basic package), inclusive of labour & materials",4372,4372.0,1
+Q0171,Prime Reno Solutions,Install sliding glass shower screen (medium dining area - deluxe package) - premium finishing included,6799,2266.33,3
+Q0172,Smith LLC,"Execution of works: Fix leaking concealed pipe in bathroom wall (medium guest room - deluxe package), inclusive of labour & materials",1566,261.0,6
+Q0173,Eco Builders Malaysia,Professional service to timber decking installation for outdoor area (small balcony - basic package),10408,1156.44,9
+Q0174,Johnson-Morris,Install waterproofing membrane in bathroom (large study room - economy package) - premium finishing included,1939,1939.0,1
+Q0175,"Soto, Gonzalez and Hansen",Works include Fix leaking concealed pipe in bathroom wall (medium bathroom - economy package) (standard quality),2308,230.8,10
+Q0176,Smith LLC,"Execution of works: Install LED downlights in living room (large living room - basic package), inclusive of labour & materials",4451,445.1,10
+Q0177,Wong Works,Labour and material for Construct plaster ceiling with cove lighting (large study room - deluxe package),3732,622.0,6
+Q0178,Majestic Home Reno,Supply & install service for Electrical rewiring and new socket installation (medium kitchen - basic package),2917,291.7,10
+Q0179,Tan & Sons,Construct plaster ceiling with cove lighting (small bathroom - basic package) - premium finishing included,2583,430.5,6
+Q0180,"Walter, Good and Vasquez",Construct plaster ceiling with cove lighting (small balcony - basic package) - premium finishing included,2016,504.0,4
+Q0181,Majestic Home Reno,"Execution of works: Painting exterior walls with weather-resistant paint (medium master bedroom - standard package), inclusive of labour & materials",6608,1101.33,6
+Q0182,Johnson-Morris,Professional service to install kitchen base and wall cabinets (melamine finish) (medium study room - premium package),6522,3261.0,2
+Q0183,Eco Builders Malaysia,"Execution of works: Fix leaking concealed pipe in bathroom wall (small bathroom - basic package), inclusive of labour & materials",1308,145.33,9
+Q0184,Eco Builders Malaysia,Install air conditioning unit (1.5HP split type) (medium dining area - deluxe package) - premium finishing included,3486,871.5,4
+Q0185,"Soto, Gonzalez and Hansen",Labour and material for Install aluminium windows with tinted glass (medium guest room - standard package),6599,659.9,10
+Q0186,Wong Works,Vinyl flooring installation in bedrooms (medium balcony - deluxe package) as per client’s request,8432,1405.33,6
+Q0187,Happy Living Renovations,"Execution of works: Install LED downlights in living room (medium dining area - economy package), inclusive of labour & materials",4413,490.33,9
+Q0188,Smith LLC,Provide and complete Lay homogeneous tiles in master bedroom (medium kitchen - standard package) with all necessary materials,11597,5798.5,2
+Q0189,Wong Works,Full repaint of interior walls with weatherproof coating (small master bedroom - deluxe package) as per client’s request,5325,532.5,10
+Q0190,Majestic Home Reno,Install waterproofing membrane in bathroom (large master bedroom - basic package) - turnkey package,1158,115.8,10
+Q0191,Majestic Home Reno,Labour and material for Replace broken floor tiles in kitchen (medium bathroom - basic package),4181,522.62,8
+Q0192,"Walter, Good and Vasquez",Supply & install service for Replace broken floor tiles in kitchen (medium balcony - deluxe package),5971,1492.75,4
+Q0193,Chan Brothers,Timber decking installation for outdoor area (medium living room - standard package) - premium finishing included,5040,504.0,10
+Q0194,Chan Brothers,Install LED downlights in living room (large bathroom - premium package) - turnkey package,4377,1094.25,4
+Q0195,Tan & Sons,Plumbing for new kitchen sink and tap (medium balcony - basic package) - turnkey package,3066,3066.0,1
+Q0196,Smith LLC,Labour and material for Full repaint of interior walls with weatherproof coating (small dining area - premium package),6262,1565.5,4
+Q0197,Lee Construction,Vinyl flooring installation in bedrooms (large study room - economy package) - premium finishing included,8105,1013.12,8
+Q0198,Lim & Partners,Install new main entrance door (solid timber) (large study room - economy package) as per client’s request,3404,1702.0,2
+Q0199,"Soto, Gonzalez and Hansen",Works include Install air conditioning unit (1.5HP split type) (large bathroom - deluxe package) (standard quality),3312,552.0,6
+Q0200,Happy Living Renovations,Bathroom renovation including new tiles and sanitary fittings (large master bedroom - deluxe package) - premium finishing included,7428,7428.0,1
+Q0201,Tan & Sons,Labour and material for Lay homogeneous tiles in master bedroom (small dining area - deluxe package),9427,9427.0,1
+Q0202,"Walter, Good and Vasquez",Painting exterior walls with weather-resistant paint (large dining area - premium package) - turnkey package,5362,670.25,8
+Q0203,Lee Construction,Provide and complete Vinyl flooring installation in bedrooms (large master bedroom - standard package) with all necessary materials,7417,1854.25,4
+Q0204,Prime Reno Solutions,Install sliding glass shower screen (large balcony - economy package) as per client’s request,2530,361.43,7
+Q0205,Lee Construction,Supply & install service for Replace broken floor tiles in kitchen (medium dining area - standard package),11221,5610.5,2
+Q0206,Eco Builders Malaysia,Professional service to replace broken floor tiles in kitchen (medium kitchen - deluxe package),10588,10588.0,1
+Q0207,Happy Living Renovations,Vendor to carry out full repaint of interior walls with weatherproof coating (small study room - basic package),4179,835.8,5
+Q0208,Prime Reno Solutions,Roof repair and waterproofing (small study room - deluxe package) - premium finishing included,1576,788.0,2
+Q0209,Lim & Partners,Install LED downlights in living room (small guest room - basic package) - premium finishing included,1480,246.67,6
+Q0210,Eco Builders Malaysia,Vendor to carry out install sliding glass shower screen (small bathroom - premium package),2833,1416.5,2
+Q0211,"Soto, Gonzalez and Hansen",Provide and complete Fix leaking concealed pipe in bathroom wall (large study room - economy package) with all necessary materials,3346,334.6,10
+Q0212,Eco Builders Malaysia,Professional service to install new main entrance door (solid timber) (medium master bedroom - deluxe package),4109,513.62,8
+Q0213,Happy Living Renovations,"Execution of works: Vinyl flooring installation in bedrooms (small kitchen - economy package), inclusive of labour & materials",5201,5201.0,1
+Q0214,Majestic Home Reno,Vendor to carry out install aluminium windows with tinted glass (large study room - standard package),7323,1046.14,7
+Q0215,Lee Construction,Vinyl flooring installation in bedrooms (small balcony - standard package) - turnkey package,4803,480.3,10
+Q0216,Ahmad Renovation,Works include Vinyl flooring installation in bedrooms (small master bedroom - deluxe package) (standard quality),7171,717.1,10
+Q0217,Majestic Home Reno,Professional service to replace broken floor tiles in kitchen (large bathroom - deluxe package),8594,2148.5,4
+Q0218,"Soto, Gonzalez and Hansen",Install sliding glass shower screen (medium kitchen - premium package) as per client’s request,9754,1950.8,5
+Q0219,Majestic Home Reno,Install new main entrance door (solid timber) (medium bathroom - economy package) - premium finishing included,4647,580.88,8
+Q0220,"Soto, Gonzalez and Hansen",Provide and complete Timber decking installation for outdoor area (large master bedroom - standard package) with all necessary materials,8449,844.9,10
+Q0221,Tan & Sons,Works include Install aluminium windows with tinted glass (small balcony - basic package) (standard quality),4655,1551.67,3
+Q0222,"Walter, Good and Vasquez",Install LED downlights in living room (medium study room - premium package) - turnkey package,3825,637.5,6
+Q0223,Eco Builders Malaysia,Professional service to roof repair and waterproofing (small living room - deluxe package),1829,228.62,8
+Q0224,"Soto, Gonzalez and Hansen",Labour and material for Install kitchen base and wall cabinets (melamine finish) (small master bedroom - standard package),12330,1233.0,10
+Q0225,Eco Builders Malaysia,Works include Painting exterior walls with weather-resistant paint (medium living room - standard package) (standard quality),3478,579.67,6
+Q0226,Happy Living Renovations,Professional service to install kitchen base and wall cabinets (melamine finish) (small bathroom - standard package),6195,1548.75,4
+Q0227,Wong Works,Works include Install aluminium windows with tinted glass (small master bedroom - standard package) (standard quality),6310,631.0,10
+Q0228,Ahmad Renovation,Replace broken floor tiles in kitchen (large bathroom - economy package) - premium finishing included,9663,1610.5,6
+Q0229,Global Build Sdn Bhd,Install sliding glass shower screen (small living room - deluxe package) - premium finishing included,9026,4513.0,2
+Q0230,Eco Builders Malaysia,Provide and complete Install LED downlights in living room (large guest room - basic package) with all necessary materials,2848,356.0,8
+Q0231,Chan Brothers,Labour and material for Bathroom renovation including new tiles and sanitary fittings (small living room - premium package),5728,1145.6,5
+Q0232,Chan Brothers,Replace broken floor tiles in kitchen (small study room - deluxe package) as per client’s request,6705,957.86,7
+Q0233,Tan & Sons,Supply & install service for Electrical rewiring and new socket installation (large dining area - basic package),2426,242.6,10
+Q0234,"Taylor, Davis and Maldonado",Labour and material for Install aluminium windows with tinted glass (large bathroom - premium package),4827,804.5,6
+Q0235,Tan & Sons,Vinyl flooring installation in bedrooms (large kitchen - deluxe package) - turnkey package,8523,852.3,10
+Q0236,Smith LLC,Provide and complete Lay homogeneous tiles in master bedroom (small dining area - basic package) with all necessary materials,8398,1199.71,7
+Q0237,Prime Reno Solutions,Supply & install service for Install aluminium windows with tinted glass (small master bedroom - economy package),7741,2580.33,3
+Q0238,Lim & Partners,Labour and material for Install new main entrance door (solid timber) (small study room - basic package),5234,654.25,8
+Q0239,Ahmad Renovation,Lay homogeneous tiles in master bedroom (medium master bedroom - deluxe package) - turnkey package,8473,1412.17,6
+Q0240,Global Build Sdn Bhd,Provide and complete Construct plaster ceiling with cove lighting (small master bedroom - economy package) with all necessary materials,4549,1516.33,3
+Q0241,Wong Works,Lay homogeneous tiles in master bedroom (medium guest room - standard package) as per client’s request,6739,673.9,10
+Q0242,Majestic Home Reno,Install kitchen base and wall cabinets (melamine finish) (medium guest room - standard package) - turnkey package,10585,1512.14,7
+Q0243,Happy Living Renovations,Install sliding glass shower screen (large kitchen - premium package) - turnkey package,8802,8802.0,1
+Q0244,"Walter, Good and Vasquez",Labour and material for Lay homogeneous tiles in master bedroom (large kitchen - economy package),10447,2089.4,5
+Q0245,Lee Construction,Vinyl flooring installation in bedrooms (medium living room - standard package) as per client’s request,6210,1035.0,6
+Q0246,Ahmad Renovation,Labour and material for Install kitchen base and wall cabinets (melamine finish) (large living room - economy package),8573,2857.67,3
+Q0247,Johnson-Morris,Supply & install service for Seal gutter joints to stop rainwater leakage (small master bedroom - standard package),6525,6525.0,1
+Q0248,Global Build Sdn Bhd,Provide and complete Bathroom renovation including new tiles and sanitary fittings (medium balcony - premium package) with all necessary materials,5455,1091.0,5
+Q0249,Majestic Home Reno,Professional service to replace broken floor tiles in kitchen (large bathroom - economy package),11122,1390.25,8
+Q0250,Lim & Partners,Provide and complete Install kitchen base and wall cabinets (melamine finish) (small living room - standard package) with all necessary materials,11663,1166.3,10
+Q0251,Chan Brothers,Install new main entrance door (solid timber) (small guest room - basic package) as per client’s request,4126,515.75,8
+Q0252,Chan Brothers,Vendor to carry out construct plaster ceiling with cove lighting (medium master bedroom - deluxe package),2471,247.1,10
+Q0253,Happy Living Renovations,Timber decking installation for outdoor area (small kitchen - premium package) - turnkey package,8076,2019.0,4
+Q0254,Eco Builders Malaysia,Labour and material for Bathroom renovation including new tiles and sanitary fittings (medium balcony - premium package),5818,1939.33,3
+Q0255,Global Build Sdn Bhd,Replace broken floor tiles in kitchen (medium study room - economy package) as per client’s request,11023,3674.33,3
+Q0256,Majestic Home Reno,"Execution of works: Fix leaking concealed pipe in bathroom wall (small dining area - standard package), inclusive of labour & materials",2560,284.44,9
+Q0257,Smith LLC,Electrical rewiring and new socket installation (medium bathroom - basic package) as per client’s request,4028,447.56,9
+Q0258,"Taylor, Davis and Maldonado",Supply & install service for Painting exterior walls with weather-resistant paint (small bathroom - basic package),7443,827.0,9
+Q0259,Majestic Home Reno,Install sliding glass shower screen (large dining area - deluxe package) - premium finishing included,2854,2854.0,1
+Q0260,Johnson-Morris,Install sliding glass shower screen (medium dining area - standard package) as per client’s request,3940,437.78,9
+Q0261,Wong Works,Install waterproofing membrane in bathroom (medium study room - basic package) as per client’s request,939,93.9,10
+Q0262,Lim & Partners,Vendor to carry out electrical rewiring and new socket installation (small balcony - standard package),3809,1904.5,2
+Q0263,Chan Brothers,Full repaint of interior walls with weatherproof coating (large master bedroom - economy package) as per client’s request,5784,1156.8,5
+Q0264,Happy Living Renovations,Timber decking installation for outdoor area (large living room - premium package) as per client’s request,11413,1630.43,7
+Q0265,Johnson-Morris,"Execution of works: Timber decking installation for outdoor area (medium bathroom - standard package), inclusive of labour & materials",7116,790.67,9
+Q0266,Eco Builders Malaysia,Professional service to full repaint of interior walls with weatherproof coating (medium balcony - economy package),4700,522.22,9
+Q0267,Prime Reno Solutions,Vendor to carry out install kitchen base and wall cabinets (melamine finish) (medium living room - economy package),7295,3647.5,2
+Q0268,"Walter, Good and Vasquez",Labour and material for Install new main entrance door (solid timber) (medium dining area - standard package),2588,258.8,10
+Q0269,"Walter, Good and Vasquez",Professional service to bathroom renovation including new tiles and sanitary fittings (medium guest room - basic package),6525,3262.5,2
+Q0270,Eco Builders Malaysia,Install air conditioning unit (1.5HP split type) (medium balcony - standard package) - premium finishing included,1893,473.25,4
+Q0271,Eco Builders Malaysia,Provide and complete Painting exterior walls with weather-resistant paint (medium kitchen - standard package) with all necessary materials,3576,894.0,4
+Q0272,"Taylor, Davis and Maldonado",Vinyl flooring installation in bedrooms (large bathroom - standard package) - premium finishing included,9473,1578.83,6
+Q0273,Johnson-Morris,Vendor to carry out install aluminium windows with tinted glass (small study room - economy package),7085,1012.14,7
+Q0274,Tan & Sons,Labour and material for Install new main entrance door (solid timber) (large bathroom - premium package),4733,1183.25,4
+Q0275,Tan & Sons,Supply & install service for Electrical rewiring and new socket installation (small master bedroom - standard package),4877,812.83,6
+Q0276,Happy Living Renovations,Provide and complete Lay homogeneous tiles in master bedroom (small study room - economy package) with all necessary materials,11223,11223.0,1
+Q0277,Happy Living Renovations,Labour and material for Install LED downlights in living room (large dining area - economy package),4186,2093.0,2
+Q0278,Wong Works,"Execution of works: Painting exterior walls with weather-resistant paint (small study room - deluxe package), inclusive of labour & materials",3498,583.0,6
+Q0279,Lee Construction,Vendor to carry out plumbing for new kitchen sink and tap (medium master bedroom - deluxe package),2045,227.22,9
+Q0280,Lim & Partners,Provide and complete Construct plaster ceiling with cove lighting (small kitchen - deluxe package) with all necessary materials,4439,1479.67,3
+Q0281,Lim & Partners,Install LED downlights in living room (medium kitchen - basic package) as per client’s request,2622,291.33,9
+Q0282,Lee Construction,Full repaint of interior walls with weatherproof coating (medium dining area - standard package) as per client’s request,4332,1444.0,3
+Q0283,"Walter, Good and Vasquez",Supply & install service for Roof repair and waterproofing (medium master bedroom - premium package),1603,320.6,5
+Q0284,Tan & Sons,Supply & install service for Install air conditioning unit (1.5HP split type) (large master bedroom - deluxe package),2532,633.0,4
+Q0285,"Taylor, Davis and Maldonado","Execution of works: Bathroom renovation including new tiles and sanitary fittings (large dining area - standard package), inclusive of labour & materials",7694,1099.14,7
+Q0286,Smith LLC,Provide and complete Seal gutter joints to stop rainwater leakage (small bathroom - standard package) with all necessary materials,3132,522.0,6
+Q0287,Johnson-Morris,Install kitchen base and wall cabinets (melamine finish) (small living room - basic package) - turnkey package,6821,682.1,10
+Q0288,Happy Living Renovations,Vendor to carry out vinyl flooring installation in bedrooms (large balcony - economy package),8021,1604.2,5
+Q0289,Happy Living Renovations,Install air conditioning unit (1.5HP split type) (medium balcony - economy package) - turnkey package,2455,2455.0,1
+Q0290,Happy Living Renovations,Vendor to carry out lay homogeneous tiles in master bedroom (medium master bedroom - standard package),7975,886.11,9
+Q0291,Lim & Partners,Works include Install LED downlights in living room (small balcony - economy package) (standard quality),3237,1618.5,2
+Q0292,Smith LLC,Vinyl flooring installation in bedrooms (large living room - economy package) - turnkey package,6358,794.75,8
+Q0293,"Walter, Good and Vasquez",Provide and complete Install new main entrance door (solid timber) (medium bathroom - deluxe package) with all necessary materials,2265,283.12,8
+Q0294,Global Build Sdn Bhd,Supply & install service for Vinyl flooring installation in bedrooms (large dining area - basic package),8121,812.1,10
+Q0295,Prime Reno Solutions,Vendor to carry out full repaint of interior walls with weatherproof coating (small study room - premium package),3470,347.0,10
+Q0296,Happy Living Renovations,Vendor to carry out fix leaking concealed pipe in bathroom wall (large study room - premium package),1857,371.4,5
+Q0297,"Taylor, Davis and Maldonado",Install waterproofing membrane in bathroom (medium master bedroom - deluxe package) - turnkey package,2332,388.67,6
+Q0298,Prime Reno Solutions,Labour and material for Lay homogeneous tiles in master bedroom (medium bathroom - premium package),7578,2526.0,3
+Q0299,Lee Construction,Vendor to carry out timber decking installation for outdoor area (large balcony - premium package),11786,1473.25,8
+Q0300,Prime Reno Solutions,Works include Install aluminium windows with tinted glass (medium balcony - deluxe package) (standard quality),6107,3053.5,2
+Q0301,"Walter, Good and Vasquez",Supply & install service for Roof repair and waterproofing (medium kitchen - basic package),1687,843.5,2
+Q0302,Chan Brothers,Install new main entrance door (solid timber) (medium study room - basic package) as per client’s request,6293,629.3,10
+Q0303,Johnson-Morris,Install LED downlights in living room (small bathroom - premium package) as per client’s request,2511,1255.5,2
+Q0304,Happy Living Renovations,Labour and material for Painting exterior walls with weather-resistant paint (medium dining area - standard package),5082,847.0,6
+Q0305,"Soto, Gonzalez and Hansen",Vendor to carry out construct plaster ceiling with cove lighting (medium living room - economy package),1057,132.12,8
+Q0306,"Taylor, Davis and Maldonado",Supply & install service for Install LED downlights in living room (medium bathroom - economy package),1922,192.2,10
+Q0307,Johnson-Morris,Install air conditioning unit (1.5HP split type) (small bathroom - deluxe package) - premium finishing included,1825,304.17,6
+Q0308,Johnson-Morris,Install LED downlights in living room (large living room - deluxe package) as per client’s request,2871,319.0,9
+Q0309,Global Build Sdn Bhd,Vendor to carry out install air conditioning unit (1.5hp split type) (large master bedroom - deluxe package),2800,466.67,6
+Q0310,Prime Reno Solutions,Professional service to fix leaking concealed pipe in bathroom wall (large dining area - basic package),1915,1915.0,1
+Q0311,"Soto, Gonzalez and Hansen",Fix leaking concealed pipe in bathroom wall (medium living room - basic package) as per client’s request,1376,275.2,5
+Q0312,Ahmad Renovation,Vendor to carry out install kitchen base and wall cabinets (melamine finish) (large study room - standard package),8102,900.22,9
+Q0313,Majestic Home Reno,Full repaint of interior walls with weatherproof coating (large master bedroom - standard package) as per client’s request,7258,1209.67,6
+Q0314,Johnson-Morris,Seal gutter joints to stop rainwater leakage (small dining area - premium package) - premium finishing included,4361,1090.25,4
+Q0315,Chan Brothers,Labour and material for Install new main entrance door (solid timber) (medium master bedroom - economy package),4123,1374.33,3
+Q0316,Happy Living Renovations,Works include Install new main entrance door (solid timber) (medium master bedroom - basic package) (standard quality),6300,3150.0,2
+Q0317,Smith LLC,Supply & install service for Install aluminium windows with tinted glass (medium study room - standard package),4306,861.2,5
+Q0318,Wong Works,"Execution of works: Install LED downlights in living room (medium study room - standard package), inclusive of labour & materials",3473,496.14,7
+Q0319,Tan & Sons,Labour and material for Replace broken floor tiles in kitchen (medium living room - premium package),6588,732.0,9
+Q0320,Chan Brothers,"Execution of works: Install new main entrance door (solid timber) (small balcony - basic package), inclusive of labour & materials",2916,324.0,9
+Q0321,"Walter, Good and Vasquez",Plumbing for new kitchen sink and tap (medium study room - deluxe package) - turnkey package,1972,281.71,7
+Q0322,Majestic Home Reno,Supply & install service for Install aluminium windows with tinted glass (small bathroom - standard package),3369,561.5,6
+Q0323,Chan Brothers,Provide and complete Painting exterior walls with weather-resistant paint (medium balcony - economy package) with all necessary materials,5553,1388.25,4
+Q0324,Eco Builders Malaysia,Vendor to carry out install kitchen base and wall cabinets (melamine finish) (large kitchen - standard package),12066,1508.25,8
+Q0325,Lee Construction,"Execution of works: Install sliding glass shower screen (large living room - premium package), inclusive of labour & materials",8783,1756.6,5
+Q0326,"Taylor, Davis and Maldonado",Professional service to bathroom renovation including new tiles and sanitary fittings (small study room - premium package),10398,3466.0,3
+Q0327,Happy Living Renovations,Install air conditioning unit (1.5HP split type) (large dining area - standard package) - premium finishing included,1707,853.5,2
+Q0328,Tan & Sons,Professional service to install kitchen base and wall cabinets (melamine finish) (large bathroom - deluxe package),5882,1176.4,5
+Q0329,Smith LLC,Labour and material for Vinyl flooring installation in bedrooms (medium balcony - deluxe package),7032,1004.57,7
+Q0330,Ahmad Renovation,Supply & install service for Seal gutter joints to stop rainwater leakage (large balcony - economy package),4093,454.78,9
+Q0331,Smith LLC,Provide and complete Plumbing for new kitchen sink and tap (large guest room - standard package) with all necessary materials,2144,306.29,7
+Q0332,Tan & Sons,Works include Fix leaking concealed pipe in bathroom wall (medium living room - basic package) (standard quality),1096,1096.0,1
+Q0333,Lee Construction,Supply & install service for Install kitchen base and wall cabinets (melamine finish) (small balcony - standard package),6719,746.56,9
+Q0334,Ahmad Renovation,Supply & install service for Bathroom renovation including new tiles and sanitary fittings (medium balcony - basic package),7216,2405.33,3
+Q0335,Wong Works,"Execution of works: Seal gutter joints to stop rainwater leakage (large dining area - premium package), inclusive of labour & materials",8217,1027.12,8
+Q0336,Smith LLC,Install LED downlights in living room (small balcony - basic package) - premium finishing included,3967,991.75,4
+Q0337,Ahmad Renovation,Roof repair and waterproofing (large balcony - basic package) - premium finishing included,2722,544.4,5
+Q0338,Lim & Partners,Seal gutter joints to stop rainwater leakage (medium kitchen - basic package) - premium finishing included,5925,2962.5,2
+Q0339,"Soto, Gonzalez and Hansen",Professional service to lay homogeneous tiles in master bedroom (small guest room - deluxe package),4782,531.33,9
+Q0340,Lim & Partners,Provide and complete Install new main entrance door (solid timber) (medium living room - deluxe package) with all necessary materials,2542,254.2,10
+Q0341,Majestic Home Reno,Supply & install service for Install new main entrance door (solid timber) (small master bedroom - economy package),3965,396.5,10
+Q0342,Eco Builders Malaysia,Professional service to bathroom renovation including new tiles and sanitary fittings (medium master bedroom - deluxe package),4838,1209.5,4
+Q0343,Prime Reno Solutions,Install sliding glass shower screen (medium guest room - deluxe package) - turnkey package,8793,2198.25,4
+Q0344,Global Build Sdn Bhd,Professional service to fix leaking concealed pipe in bathroom wall (small dining area - standard package),2054,2054.0,1
+Q0345,Majestic Home Reno,Supply & install service for Full repaint of interior walls with weatherproof coating (small balcony - economy package),5769,2884.5,2
+Q0346,Lee Construction,Labour and material for Install new main entrance door (solid timber) (medium bathroom - basic package),6610,661.0,10
+Q0347,Lee Construction,Electrical rewiring and new socket installation (large bathroom - economy package) - premium finishing included,2045,511.25,4
+Q0348,Chan Brothers,Supply & install service for Install waterproofing membrane in bathroom (medium kitchen - standard package),2818,313.11,9
+Q0349,"Taylor, Davis and Maldonado",Vendor to carry out install new main entrance door (solid timber) (medium study room - economy package),4738,676.86,7
+Q0350,Eco Builders Malaysia,Works include Replace broken floor tiles in kitchen (medium living room - standard package) (standard quality),11172,1596.0,7
+Q0351,"Taylor, Davis and Maldonado",Construct plaster ceiling with cove lighting (medium living room - economy package) - premium finishing included,2699,2699.0,1
+Q0352,Lee Construction,"Execution of works: Replace broken floor tiles in kitchen (small balcony - premium package), inclusive of labour & materials",6191,3095.5,2
+Q0353,Prime Reno Solutions,Provide and complete Vinyl flooring installation in bedrooms (small living room - premium package) with all necessary materials,9245,1849.0,5
+Q0354,"Walter, Good and Vasquez",Supply & install service for Electrical rewiring and new socket installation (small bathroom - deluxe package),2594,648.5,4
+Q0355,Ahmad Renovation,Professional service to replace broken floor tiles in kitchen (small master bedroom - economy package),10707,1338.38,8
+Q0356,"Soto, Gonzalez and Hansen",Vendor to carry out vinyl flooring installation in bedrooms (large bathroom - premium package),8430,1405.0,6
+Q0357,Eco Builders Malaysia,Vendor to carry out fix leaking concealed pipe in bathroom wall (medium guest room - premium package),2164,360.67,6
+Q0358,Eco Builders Malaysia,Provide and complete Seal gutter joints to stop rainwater leakage (medium bathroom - premium package) with all necessary materials,8126,1160.86,7
+Q0359,Majestic Home Reno,Vendor to carry out roof repair and waterproofing (large master bedroom - standard package),1885,1885.0,1
+Q0360,Lim & Partners,Replace broken floor tiles in kitchen (small balcony - economy package) - premium finishing included,9526,1905.2,5
+Q0361,Wong Works,"Execution of works: Install aluminium windows with tinted glass (medium guest room - economy package), inclusive of labour & materials",3522,3522.0,1
+Q0362,Eco Builders Malaysia,Install waterproofing membrane in bathroom (large kitchen - economy package) - turnkey package,1680,280.0,6
+Q0363,Global Build Sdn Bhd,Works include Install air conditioning unit (1.5HP split type) (medium living room - basic package) (standard quality),2910,363.75,8
+Q0364,Eco Builders Malaysia,Labour and material for Install kitchen base and wall cabinets (melamine finish) (small living room - deluxe package),9309,1034.33,9
+Q0365,Lim & Partners,Full repaint of interior walls with weatherproof coating (large dining area - premium package) as per client’s request,7315,2438.33,3
+Q0366,Johnson-Morris,Provide and complete Full repaint of interior walls with weatherproof coating (large master bedroom - standard package) with all necessary materials,7037,1407.4,5
+Q0367,Johnson-Morris,Provide and complete Painting exterior walls with weather-resistant paint (medium guest room - basic package) with all necessary materials,5784,1156.8,5
+Q0368,Smith LLC,Vendor to carry out construct plaster ceiling with cove lighting (small living room - premium package),1012,144.57,7
+Q0369,Prime Reno Solutions,Provide and complete Replace broken floor tiles in kitchen (medium dining area - basic package) with all necessary materials,5088,1017.6,5
+Q0370,"Walter, Good and Vasquez",Works include Full repaint of interior walls with weatherproof coating (large balcony - standard package) (standard quality),7177,717.7,10
+Q0371,Happy Living Renovations,Supply & install service for Install waterproofing membrane in bathroom (medium balcony - economy package),1952,278.86,7
+Q0372,Lee Construction,Install waterproofing membrane in bathroom (medium bathroom - deluxe package) as per client’s request,1978,219.78,9
+Q0373,Smith LLC,Works include Install new main entrance door (solid timber) (large living room - deluxe package) (standard quality),2314,289.25,8
+Q0374,Wong Works,Vendor to carry out electrical rewiring and new socket installation (small living room - standard package),4178,596.86,7
+Q0375,Ahmad Renovation,Vendor to carry out timber decking installation for outdoor area (small master bedroom - deluxe package),11177,1862.83,6
+Q0376,Happy Living Renovations,Professional service to plumbing for new kitchen sink and tap (medium dining area - deluxe package),1374,458.0,3
+Q0377,"Soto, Gonzalez and Hansen",Vendor to carry out install new main entrance door (solid timber) (small master bedroom - standard package),6721,746.78,9
+Q0378,Majestic Home Reno,Provide and complete Seal gutter joints to stop rainwater leakage (medium kitchen - basic package) with all necessary materials,3990,498.75,8
+Q0379,Smith LLC,Vendor to carry out painting exterior walls with weather-resistant paint (large bathroom - standard package),6287,898.14,7
+Q0380,Prime Reno Solutions,Plumbing for new kitchen sink and tap (large bathroom - standard package) - turnkey package,2850,316.67,9
+Q0381,Happy Living Renovations,Vendor to carry out electrical rewiring and new socket installation (large guest room - economy package),3982,497.75,8
+Q0382,Happy Living Renovations,Install sliding glass shower screen (medium bathroom - economy package) as per client’s request,9834,983.4,10
+Q0383,"Soto, Gonzalez and Hansen",Supply & install service for Construct plaster ceiling with cove lighting (medium bathroom - basic package),1845,205.0,9
+Q0384,Tan & Sons,Vendor to carry out fix leaking concealed pipe in bathroom wall (large study room - economy package),2783,1391.5,2
+Q0385,Lee Construction,Install sliding glass shower screen (small study room - deluxe package) as per client’s request,3611,451.38,8
+Q0386,Eco Builders Malaysia,Professional service to timber decking installation for outdoor area (medium kitchen - deluxe package),7164,716.4,10
+Q0387,Tan & Sons,Supply & install service for Painting exterior walls with weather-resistant paint (small study room - deluxe package),5004,1000.8,5
+Q0388,Lee Construction,Vinyl flooring installation in bedrooms (small balcony - economy package) - turnkey package,11742,2935.5,4
+Q0389,"Soto, Gonzalez and Hansen","Execution of works: Replace broken floor tiles in kitchen (medium balcony - premium package), inclusive of labour & materials",6344,634.4,10
+Q0390,"Walter, Good and Vasquez",Roof repair and waterproofing (medium kitchen - standard package) as per client’s request,2343,260.33,9
+Q0391,Chan Brothers,Professional service to full repaint of interior walls with weatherproof coating (small dining area - deluxe package),6890,1378.0,5
+Q0392,Smith LLC,Construct plaster ceiling with cove lighting (medium bathroom - basic package) - premium finishing included,3189,797.25,4
+Q0393,Johnson-Morris,Provide and complete Install LED downlights in living room (medium study room - basic package) with all necessary materials,4746,593.25,8
+Q0394,Smith LLC,Vendor to carry out timber decking installation for outdoor area (medium kitchen - deluxe package),7270,2423.33,3
+Q0395,Eco Builders Malaysia,Supply & install service for Fix leaking concealed pipe in bathroom wall (medium guest room - standard package),1943,647.67,3
+Q0396,Eco Builders Malaysia,Works include Fix leaking concealed pipe in bathroom wall (medium study room - deluxe package) (standard quality),1341,223.5,6
+Q0397,"Walter, Good and Vasquez",Electrical rewiring and new socket installation (medium guest room - deluxe package) - turnkey package,4116,1029.0,4
+Q0398,Lee Construction,Bathroom renovation including new tiles and sanitary fittings (medium living room - standard package) as per client’s request,5815,726.88,8
+Q0399,Prime Reno Solutions,Vendor to carry out install aluminium windows with tinted glass (medium kitchen - deluxe package),3923,392.3,10
+Q0400,Eco Builders Malaysia,Labour and material for Install kitchen base and wall cabinets (melamine finish) (large bathroom - premium package),6129,1021.5,6
+Q0401,Happy Living Renovations,Full repaint of interior walls with weatherproof coating (small guest room - economy package) - premium finishing included,5279,1759.67,3
+Q0402,Global Build Sdn Bhd,"Execution of works: Plumbing for new kitchen sink and tap (large dining area - basic package), inclusive of labour & materials",1100,122.22,9
+Q0403,Happy Living Renovations,Professional service to install new main entrance door (solid timber) (large balcony - premium package),7512,1502.4,5
+Q0404,"Walter, Good and Vasquez","Execution of works: Install sliding glass shower screen (medium kitchen - standard package), inclusive of labour & materials",3931,491.38,8
+Q0405,Johnson-Morris,Vendor to carry out painting exterior walls with weather-resistant paint (medium dining area - basic package),3307,1102.33,3
+Q0406,Chan Brothers,Works include Fix leaking concealed pipe in bathroom wall (small kitchen - standard package) (standard quality),1341,335.25,4
+Q0407,"Soto, Gonzalez and Hansen",Install kitchen base and wall cabinets (melamine finish) (medium balcony - basic package) as per client’s request,12381,12381.0,1
+Q0408,Global Build Sdn Bhd,Electrical rewiring and new socket installation (medium master bedroom - economy package) - turnkey package,2818,939.33,3
+Q0409,Smith LLC,Supply & install service for Replace broken floor tiles in kitchen (medium bathroom - deluxe package),8515,1703.0,5
+Q0410,Tan & Sons,Works include Roof repair and waterproofing (large kitchen - standard package) (standard quality),2174,434.8,5
+Q0411,Wong Works,Labour and material for Roof repair and waterproofing (small balcony - premium package),1026,1026.0,1
+Q0412,Happy Living Renovations,Supply & install service for Electrical rewiring and new socket installation (large kitchen - premium package),1141,114.1,10
+Q0413,Lim & Partners,Works include Lay homogeneous tiles in master bedroom (medium living room - premium package) (standard quality),7276,1039.43,7
+Q0414,Smith LLC,Professional service to bathroom renovation including new tiles and sanitary fittings (small balcony - premium package),6183,1030.5,6
+Q0415,Eco Builders Malaysia,Provide and complete Fix leaking concealed pipe in bathroom wall (small dining area - deluxe package) with all necessary materials,1444,240.67,6
+Q0416,Johnson-Morris,Vendor to carry out plumbing for new kitchen sink and tap (small study room - economy package),3159,1053.0,3
+Q0417,"Taylor, Davis and Maldonado",Fix leaking concealed pipe in bathroom wall (small study room - economy package) as per client’s request,1693,188.11,9
+Q0418,"Walter, Good and Vasquez",Provide and complete Full repaint of interior walls with weatherproof coating (large master bedroom - economy package) with all necessary materials,5621,1873.67,3
+Q0419,Chan Brothers,"Execution of works: Install sliding glass shower screen (small guest room - deluxe package), inclusive of labour & materials",8047,1609.4,5
+Q0420,Majestic Home Reno,Works include Install air conditioning unit (1.5HP split type) (medium kitchen - premium package) (standard quality),3395,1131.67,3
+Q0421,Smith LLC,Works include Replace broken floor tiles in kitchen (small study room - premium package) (standard quality),7541,1508.2,5
+Q0422,Global Build Sdn Bhd,"Execution of works: Timber decking installation for outdoor area (medium guest room - basic package), inclusive of labour & materials",10792,1349.0,8
+Q0423,Happy Living Renovations,Labour and material for Lay homogeneous tiles in master bedroom (large living room - economy package),6220,888.57,7
+Q0424,Eco Builders Malaysia,Supply & install service for Timber decking installation for outdoor area (medium study room - basic package),5579,797.0,7
+Q0425,"Soto, Gonzalez and Hansen",Electrical rewiring and new socket installation (small living room - standard package) - premium finishing included,2584,430.67,6
+Q0426,Wong Works,Supply & install service for Timber decking installation for outdoor area (small living room - deluxe package),10711,2677.75,4
+Q0427,Wong Works,Fix leaking concealed pipe in bathroom wall (medium master bedroom - deluxe package) - premium finishing included,1570,785.0,2
+Q0428,Tan & Sons,Vendor to carry out plumbing for new kitchen sink and tap (small dining area - standard package),1424,158.22,9
+Q0429,Lee Construction,Install sliding glass shower screen (small study room - premium package) as per client’s request,2898,1449.0,2
+Q0430,Chan Brothers,Lay homogeneous tiles in master bedroom (large dining area - premium package) - turnkey package,11862,1977.0,6
+Q0431,Smith LLC,Professional service to vinyl flooring installation in bedrooms (large guest room - basic package),8835,1767.0,5
+Q0432,Eco Builders Malaysia,Vendor to carry out full repaint of interior walls with weatherproof coating (large balcony - deluxe package),6888,2296.0,3
+Q0433,Ahmad Renovation,"Execution of works: Painting exterior walls with weather-resistant paint (large master bedroom - deluxe package), inclusive of labour & materials",3989,3989.0,1
+Q0434,Eco Builders Malaysia,Supply & install service for Seal gutter joints to stop rainwater leakage (large dining area - basic package),4067,1016.75,4
+Q0435,Ahmad Renovation,Seal gutter joints to stop rainwater leakage (large living room - basic package) - turnkey package,6038,754.75,8
+Q0436,"Taylor, Davis and Maldonado",Supply & install service for Bathroom renovation including new tiles and sanitary fittings (small study room - deluxe package),9605,1200.62,8
+Q0437,Ahmad Renovation,Supply & install service for Fix leaking concealed pipe in bathroom wall (small guest room - deluxe package),3265,1632.5,2
+Q0438,"Soto, Gonzalez and Hansen",Vendor to carry out fix leaking concealed pipe in bathroom wall (large bathroom - basic package),2747,2747.0,1
+Q0439,Majestic Home Reno,Install sliding glass shower screen (large balcony - basic package) - turnkey package,6287,898.14,7
+Q0440,Lim & Partners,Professional service to electrical rewiring and new socket installation (medium living room - economy package),3977,441.89,9
+Q0441,Prime Reno Solutions,Works include Vinyl flooring installation in bedrooms (medium guest room - premium package) (standard quality),11320,11320.0,1
+Q0442,Lim & Partners,Supply & install service for Install air conditioning unit (1.5HP split type) (large kitchen - basic package),2771,692.75,4
+Q0443,"Soto, Gonzalez and Hansen",Provide and complete Install LED downlights in living room (medium dining area - deluxe package) with all necessary materials,1048,209.6,5
+Q0444,Eco Builders Malaysia,Install air conditioning unit (1.5HP split type) (small bathroom - economy package) as per client’s request,2707,300.78,9
+Q0445,Ahmad Renovation,Vendor to carry out timber decking installation for outdoor area (medium dining area - economy package),5567,1113.4,5
+Q0446,Prime Reno Solutions,Works include Install aluminium windows with tinted glass (medium dining area - deluxe package) (standard quality),4223,469.22,9
+Q0447,Chan Brothers,Works include Replace broken floor tiles in kitchen (small guest room - basic package) (standard quality),7094,886.75,8
+Q0448,Lim & Partners,"Execution of works: Full repaint of interior walls with weatherproof coating (medium kitchen - premium package), inclusive of labour & materials",4765,476.5,10
+Q0449,Lee Construction,"Execution of works: Replace broken floor tiles in kitchen (medium balcony - basic package), inclusive of labour & materials",11293,1411.62,8
+Q0450,Eco Builders Malaysia,Supply & install service for Install LED downlights in living room (large kitchen - premium package),2478,275.33,9
+Q0451,Happy Living Renovations,Supply & install service for Install waterproofing membrane in bathroom (medium dining area - economy package),1380,138.0,10
+Q0452,Tan & Sons,Labour and material for Install waterproofing membrane in bathroom (medium kitchen - basic package),2338,389.67,6
+Q0453,Global Build Sdn Bhd,Bathroom renovation including new tiles and sanitary fittings (small bathroom - deluxe package) - turnkey package,5479,782.71,7
+Q0454,Global Build Sdn Bhd,Labour and material for Install sliding glass shower screen (small bathroom - premium package),2574,257.4,10
+Q0455,Majestic Home Reno,Labour and material for Replace broken floor tiles in kitchen (medium guest room - standard package),9698,1616.33,6
+Q0456,"Soto, Gonzalez and Hansen",Works include Painting exterior walls with weather-resistant paint (small study room - basic package) (standard quality),4147,592.43,7
+Q0457,Prime Reno Solutions,Works include Fix leaking concealed pipe in bathroom wall (medium study room - premium package) (standard quality),2979,1489.5,2
+Q0458,"Taylor, Davis and Maldonado",Works include Install new main entrance door (solid timber) (small guest room - deluxe package) (standard quality),7795,974.38,8
+Q0459,"Soto, Gonzalez and Hansen",Labour and material for Install waterproofing membrane in bathroom (large guest room - basic package),2434,608.5,4
+Q0460,Ahmad Renovation,Vendor to carry out painting exterior walls with weather-resistant paint (small bathroom - standard package),4139,2069.5,2
